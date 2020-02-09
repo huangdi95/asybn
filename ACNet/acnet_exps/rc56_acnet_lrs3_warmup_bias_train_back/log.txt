@@ -1,0 +1,84 @@
+2020-02-08 09:03:14,838 train WARNING: A exception occurred during Engine initialization, give up running process
+2020-02-08 09:05:09,780 train WARNING: A exception occurred during Engine initialization, give up running process
+2020-02-08 09:05:54,192 train WARNING: A exception occurred during Engine initialization, give up running process
+2020-02-08 09:10:27,558 train INFO: 
+
+Start training with pytorch version 1.4.0
+2020-02-08 09:10:27,588 train WARNING: A exception occurred during Engine initialization, give up running process
+2020-02-08 09:25:53,431 train INFO: 
+
+Start training with pytorch version 1.4.0
+2020-02-08 09:25:53,618 train INFO: num of params in hdf5=1441985
+2020-02-08 09:26:55,582 train INFO: validate at epoch 0, top1=11.43000, top5=50.25000, loss=2.343383
+2020-02-08 09:42:37,034 train INFO: validate at epoch 2, top1=63.90000, top5=96.30000, loss=1.042921
+2020-02-08 09:58:19,591 train INFO: validate at epoch 4, top1=70.47000, top5=97.24000, loss=0.888320
+2020-02-08 10:13:54,257 train INFO: validate at epoch 6, top1=80.05000, top5=98.78000, loss=0.584521
+2020-02-08 10:29:36,779 train INFO: validate at epoch 8, top1=78.02000, top5=98.88000, loss=0.643245
+2020-02-08 10:45:18,082 train INFO: validate at epoch 10, top1=80.38000, top5=98.99000, loss=0.563525
+2020-02-08 11:00:55,043 train INFO: validate at epoch 12, top1=83.15000, top5=99.39000, loss=0.487878
+2020-02-08 11:15:54,300 train INFO: validate at epoch 14, top1=85.34000, top5=99.46000, loss=0.417277
+2020-02-08 11:31:14,964 train INFO: validate at epoch 16, top1=85.21000, top5=99.26000, loss=0.438935
+2020-02-08 11:46:51,305 train INFO: validate at epoch 18, top1=87.46000, top5=99.56000, loss=0.363028
+2020-02-08 12:02:14,166 train INFO: validate at epoch 20, top1=86.64000, top5=99.40000, loss=0.417302
+2020-02-08 12:17:59,714 train INFO: validate at epoch 22, top1=85.76000, top5=99.10000, loss=0.442341
+2020-02-08 12:33:27,842 train INFO: validate at epoch 24, top1=88.54000, top5=99.60000, loss=0.334366
+2020-02-08 12:48:55,637 train INFO: validate at epoch 26, top1=87.08000, top5=99.64000, loss=0.375648
+2020-02-08 13:04:34,034 train INFO: validate at epoch 28, top1=90.03000, top5=99.66000, loss=0.297180
+2020-02-08 13:20:06,018 train INFO: validate at epoch 30, top1=89.84000, top5=99.69000, loss=0.285433
+2020-02-08 13:35:16,934 train INFO: validate at epoch 32, top1=86.79000, top5=99.42000, loss=0.390700
+2020-02-08 13:51:09,441 train INFO: validate at epoch 34, top1=86.75000, top5=99.53000, loss=0.386682
+2020-02-08 14:06:27,040 train INFO: validate at epoch 36, top1=89.13000, top5=99.76000, loss=0.314672
+2020-02-08 14:22:10,891 train INFO: validate at epoch 38, top1=88.60000, top5=99.66000, loss=0.337482
+2020-02-08 14:37:41,498 train INFO: validate at epoch 40, top1=89.65000, top5=99.63000, loss=0.307482
+2020-02-08 14:53:40,856 train INFO: validate at epoch 42, top1=87.70000, top5=99.58000, loss=0.370760
+2020-02-08 15:09:46,598 train INFO: validate at epoch 44, top1=89.11000, top5=99.70000, loss=0.312629
+2020-02-08 15:26:03,540 train INFO: validate at epoch 46, top1=82.66000, top5=99.08000, loss=0.580340
+2020-02-08 15:42:10,974 train INFO: validate at epoch 48, top1=90.34000, top5=99.75000, loss=0.274113
+2020-02-08 15:58:18,897 train INFO: validate at epoch 50, top1=90.55000, top5=99.71000, loss=0.272084
+2020-02-08 16:14:20,160 train INFO: validate at epoch 52, top1=83.23000, top5=99.35000, loss=0.503499
+2020-02-08 16:30:13,315 train INFO: validate at epoch 54, top1=91.39000, top5=99.77000, loss=0.252048
+2020-02-08 16:46:30,189 train INFO: validate at epoch 56, top1=88.82000, top5=99.69000, loss=0.327222
+2020-02-08 21:44:39,455 train INFO: validate at epoch 58, top1=86.34000, top5=99.18000, loss=0.410144
+2020-02-08 22:00:52,730 train INFO: validate at epoch 60, top1=88.77000, top5=99.60000, loss=0.339200
+2020-02-08 22:17:06,675 train INFO: validate at epoch 62, top1=90.62000, top5=99.79000, loss=0.282768
+2020-02-08 22:33:19,730 train INFO: validate at epoch 64, top1=86.68000, top5=99.79000, loss=0.390307
+2020-02-08 22:49:37,069 train INFO: validate at epoch 66, top1=87.50000, top5=99.50000, loss=0.392387
+2020-02-08 23:05:47,104 train INFO: validate at epoch 68, top1=90.68000, top5=99.85000, loss=0.265559
+2020-02-08 23:22:00,688 train INFO: validate at epoch 70, top1=90.96000, top5=99.79000, loss=0.254432
+2020-02-08 23:38:15,460 train INFO: validate at epoch 72, top1=90.38000, top5=99.73000, loss=0.277399
+2020-02-08 23:54:28,529 train INFO: validate at epoch 74, top1=92.62000, top5=99.79000, loss=0.221646
+2020-02-09 00:10:41,383 train INFO: validate at epoch 76, top1=88.41000, top5=99.47000, loss=0.354002
+2020-02-09 00:26:59,198 train INFO: validate at epoch 78, top1=88.89000, top5=99.67000, loss=0.320550
+2020-02-09 00:43:13,755 train INFO: validate at epoch 80, top1=90.40000, top5=99.64000, loss=0.281243
+2020-02-09 00:59:32,163 train INFO: validate at epoch 82, top1=90.54000, top5=99.77000, loss=0.272044
+2020-02-09 01:15:56,484 train INFO: validate at epoch 84, top1=91.36000, top5=99.89000, loss=0.249420
+2020-02-09 01:32:10,612 train INFO: validate at epoch 86, top1=91.15000, top5=99.85000, loss=0.255380
+2020-02-09 01:48:18,311 train INFO: validate at epoch 88, top1=89.52000, top5=99.67000, loss=0.324900
+2020-02-09 02:04:31,559 train INFO: validate at epoch 90, top1=91.23000, top5=99.74000, loss=0.256985
+2020-02-09 02:20:49,894 train INFO: validate at epoch 92, top1=88.11000, top5=99.69000, loss=0.328636
+2020-02-09 02:37:04,038 train INFO: validate at epoch 94, top1=91.84000, top5=99.86000, loss=0.238886
+2020-02-09 02:53:13,941 train INFO: validate at epoch 96, top1=91.66000, top5=99.81000, loss=0.243185
+2020-02-09 03:09:31,901 train INFO: validate at epoch 98, top1=91.32000, top5=99.76000, loss=0.248864
+2020-02-09 03:25:43,818 train INFO: validate at epoch 100, top1=92.15000, top5=99.79000, loss=0.234229
+2020-02-09 03:42:05,549 train INFO: validate at epoch 102, top1=89.93000, top5=99.60000, loss=0.303117
+2020-02-09 03:58:23,852 train INFO: validate at epoch 104, top1=92.53000, top5=99.69000, loss=0.231003
+2020-02-09 04:14:37,664 train INFO: validate at epoch 106, top1=92.24000, top5=99.80000, loss=0.226311
+2020-02-09 04:30:54,749 train INFO: validate at epoch 108, top1=91.39000, top5=99.85000, loss=0.248558
+2020-02-09 04:47:07,428 train INFO: validate at epoch 110, top1=86.11000, top5=99.63000, loss=0.398318
+2020-02-09 05:03:25,531 train INFO: validate at epoch 112, top1=90.87000, top5=99.72000, loss=0.275347
+2020-02-09 05:19:35,884 train INFO: validate at epoch 114, top1=86.72000, top5=99.49000, loss=0.393465
+2020-02-09 05:35:43,921 train INFO: validate at epoch 116, top1=90.57000, top5=99.80000, loss=0.263695
+2020-02-09 05:51:53,582 train INFO: validate at epoch 118, top1=88.89000, top5=99.59000, loss=0.319754
+2020-02-09 06:08:10,301 train INFO: validate at epoch 120, top1=93.49000, top5=99.87000, loss=0.189345
+2020-02-09 06:24:27,931 train INFO: validate at epoch 122, top1=93.56000, top5=99.87000, loss=0.189889
+2020-02-09 06:40:44,871 train INFO: validate at epoch 124, top1=91.03000, top5=99.65000, loss=0.274170
+2020-02-09 06:57:05,857 train INFO: validate at epoch 126, top1=90.97000, top5=99.66000, loss=0.266320
+2020-02-09 07:13:14,972 train INFO: validate at epoch 128, top1=91.40000, top5=99.84000, loss=0.236278
+2020-02-09 07:29:30,584 train INFO: validate at epoch 130, top1=92.52000, top5=99.83000, loss=0.213171
+2020-02-09 07:45:49,978 train INFO: validate at epoch 132, top1=86.33000, top5=99.60000, loss=0.410575
+2020-02-09 08:02:10,073 train INFO: validate at epoch 134, top1=89.39000, top5=99.73000, loss=0.319990
+2020-02-09 08:18:26,369 train INFO: validate at epoch 136, top1=92.88000, top5=99.91000, loss=0.204367
+2020-02-09 08:34:44,812 train INFO: validate at epoch 138, top1=92.34000, top5=99.87000, loss=0.224115
+2020-02-09 08:50:58,648 train INFO: validate at epoch 140, top1=90.13000, top5=99.70000, loss=0.308743
+2020-02-09 09:07:14,763 train INFO: validate at epoch 142, top1=91.03000, top5=99.80000, loss=0.261526
+2020-02-09 09:22:35,492 train WARNING: A exception occurred during Engine initialization, give up running process

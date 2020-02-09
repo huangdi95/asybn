@@ -1,0 +1,24 @@
+2020-02-09 09:28:14,210 train INFO: 
+
+Start training with pytorch version 1.4.0
+2020-02-09 09:28:14,423 train INFO: num of params in hdf5=1441985
+2020-02-09 09:29:18,045 train INFO: validate at epoch 0, top1=10.24000, top5=49.83000, loss=6.782399
+2020-02-09 09:45:06,868 train INFO: validate at epoch 2, top1=57.26000, top5=95.31000, loss=1.217543
+2020-02-09 10:00:31,754 train INFO: validate at epoch 4, top1=72.16000, top5=97.88000, loss=0.807026
+2020-02-09 10:16:05,424 train INFO: validate at epoch 6, top1=77.29000, top5=98.73000, loss=0.648792
+2020-02-09 10:32:02,913 train INFO: validate at epoch 8, top1=81.37000, top5=98.81000, loss=0.546728
+2020-02-09 10:47:39,366 train INFO: validate at epoch 10, top1=83.30000, top5=99.12000, loss=0.500526
+2020-02-09 11:03:16,996 train INFO: validate at epoch 12, top1=84.52000, top5=99.36000, loss=0.450257
+2020-02-09 11:18:56,567 train INFO: validate at epoch 14, top1=86.63000, top5=99.52000, loss=0.394837
+2020-02-09 11:34:34,190 train INFO: validate at epoch 16, top1=83.62000, top5=99.41000, loss=0.498747
+2020-02-09 11:50:16,055 train INFO: validate at epoch 18, top1=86.20000, top5=99.25000, loss=0.410119
+2020-02-09 12:05:53,872 train INFO: validate at epoch 20, top1=84.51000, top5=99.16000, loss=0.466174
+2020-02-09 12:21:47,533 train INFO: validate at epoch 22, top1=88.38000, top5=99.31000, loss=0.346926
+2020-02-09 12:38:05,765 train INFO: validate at epoch 24, top1=85.48000, top5=99.48000, loss=0.430128
+2020-02-09 12:54:22,356 train INFO: validate at epoch 26, top1=88.86000, top5=99.74000, loss=0.318779
+2020-02-09 13:10:41,922 train INFO: validate at epoch 28, top1=89.45000, top5=99.63000, loss=0.303456
+2020-02-09 13:27:04,732 train INFO: validate at epoch 30, top1=88.03000, top5=99.57000, loss=0.347879
+2020-02-09 13:43:15,596 train INFO: validate at epoch 32, top1=89.06000, top5=99.67000, loss=0.310673
+2020-02-09 13:59:32,588 train INFO: validate at epoch 34, top1=88.55000, top5=99.55000, loss=0.337071
+2020-02-09 14:15:48,290 train INFO: validate at epoch 36, top1=89.95000, top5=99.77000, loss=0.287449
+2020-02-09 14:32:01,011 train INFO: validate at epoch 38, top1=89.83000, top5=99.63000, loss=0.298342

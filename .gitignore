@@ -1,0 +1,16 @@
+*.pyc
+*.o
+*.so
+*__pyc*__
+*.log
+*.prof
+*.metrics
+*.sw*
+*.csv
+*.trace
+*.pth
+*.checkpoint
+*.png
+*-env*
+*events.*
+*.hdf5
